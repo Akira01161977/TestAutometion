@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="18869" started-at="2019-02-21T11:09:07Z" finished-at="2019-02-21T11:09:26Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="18869" started-at="2019-02-21T11:09:07Z" finished-at="2019-02-21T11:09:26Z">
+      <class name="test.NewTest">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:test.NewTest@c038203]" name="beforeClass" is-config="true" duration-ms="3686" started-at="2019-02-21T12:09:07Z" finished-at="2019-02-21T12:09:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="openUrl()[pri:0, instance:test.NewTest@c038203]" name="openUrl" duration-ms="678" started-at="2019-02-21T12:09:11Z" finished-at="2019-02-21T12:09:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openUrl -->
+        <test-method status="PASS" signature="Login()[pri:0, instance:test.NewTest@c038203]" name="Login" duration-ms="2557" started-at="2019-02-21T12:09:12Z" finished-at="2019-02-21T12:09:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method status="PASS" signature="NewElement()[pri:0, instance:test.NewTest@c038203]" name="NewElement" duration-ms="5768" started-at="2019-02-21T12:09:14Z" finished-at="2019-02-21T12:09:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NewElement -->
+        <test-method status="PASS" signature="DeleteElement()[pri:0, instance:test.NewTest@c038203]" name="DeleteElement" duration-ms="5084" started-at="2019-02-21T12:09:20Z" finished-at="2019-02-21T12:09:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DeleteElement -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:test.NewTest@c038203]" name="afterClass" is-config="true" duration-ms="1078" started-at="2019-02-21T12:09:25Z" finished-at="2019-02-21T12:09:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- test.NewTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
